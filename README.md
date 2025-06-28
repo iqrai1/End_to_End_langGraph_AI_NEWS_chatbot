@@ -21,7 +21,7 @@ Below is a screenshot of the user interface showing how the chatbot displays AI 
 
 ![AI News Chatbot Screenshot](https://github.com/iqrai1/End_to_End_langGraph_AI_NEWS_chatbot/blob/main/News1.png)
 
-![AI News Chatbot Screenshot](https://github.com/iqrai1/End_to_End_langGraph_AI_NEWS_chatbot/blob/main/News2.png)
+![AI News Chatbot Screenshot2](https://github.com/iqrai1/End_to_End_langGraph_AI_NEWS_chatbot/blob/main/New2.png)
 
 ### Clone the Repository
 
